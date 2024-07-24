@@ -1,0 +1,2 @@
+# rtl8192eu-20220929
+RTL8192EU Linux Driver v5.11.2.3-20-20220929 FPV Mod 
