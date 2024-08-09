@@ -86,7 +86,7 @@
 
 
 /* xmit extension buff defination */
-#define MAX_XMIT_EXTBUF_SZ	(4096)
+#define MAX_XMIT_EXTBUF_SZ	(1536)
 
 #ifdef CONFIG_SINGLE_XMIT_BUF
 	#define NR_XMIT_EXTBUFF	(1)
