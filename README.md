@@ -1,6 +1,8 @@
 # rtl8192eu-20220929
 RTL8192EU Linux Driver v5.11.2.3-20-20220929 FPV Mod 
 
+Download pre-built OpenIPC firmware with this driver integrated [here](https://github.com/libc0607/openipc-firmware/releases/tag/latest) to help test.  
+
 Original driver from Realtek: [RTL8192EU_linux_v5.11.2.3-20-gbf6f4ca0d_COEX20171113-0047.20220929.tar.gz](https://github.com/libc0607/rtl8192eu-20220929/blob/50756de1c6fc38d7da060d29b9de56295bf995e0/doc/RTL8192EU_linux_v5.11.2.3-20-gbf6f4ca0d_COEX20171113-0047.20220929.tar.gz)  
 Datasheet of BL-M8192EU9 (The only brand new 2.4GHz Wi-Fi module with 2x >1W PAs you can find now): [BL-M8192EU9_datasheet_V1.0.1.pdf](https://github.com/libc0607/rtl8192eu-20220929/blob/50756de1c6fc38d7da060d29b9de56295bf995e0/doc/BL-M8192EU9_datasheet_V1.0.1.pdf)   
 
